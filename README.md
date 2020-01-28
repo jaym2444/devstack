@@ -33,8 +33,8 @@ Enable or disable a resource
 
 Add or remove a task
 > /servers/:id/perms (POST)
-Add or remove a permset
 
+Add or remove a permset
 > /servers/:id/a/stop (POST)
 
 Stop Server
